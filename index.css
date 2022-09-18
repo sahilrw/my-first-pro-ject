@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    color: #03045E;
+    text-align: left;
+    font-family: 'Aref Ruqaa Ink', serif; 
+}
+.btn {
+    font-family: 'Dangrek', cursive;
+     color: #4DADE0;
+     font-weight: bold;
+}
+.abc {
+    border-bottom: 4px solid black;
+    border: none;
+}
+#logo {
+    width: 100px;
+    margin-right:0px;
+}
+#hero {
+    background-image: url("giphy.webp");
+    background-size: cover; 
+    padding: 10px 0 390px 0;
+}
+#def {
+    text-shadow: 1px 2px 4px #03045E
+}
